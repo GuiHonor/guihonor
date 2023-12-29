@@ -2,7 +2,6 @@
 ### <div align="center">:space_invader: Web Development Student. :space_invader:</div>
 ####
 - 🔭 I'm searching for a first job opportunity in the web development area.
-- 🌱 Actually I'm studying PHP.
 - 📫 Contact-me -> www.guihonor@gmail.com
 
 ##
